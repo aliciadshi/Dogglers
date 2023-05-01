@@ -2471,6 +2471,7 @@ drawable faye
 drawable frankie
 drawable gunbam
 drawable ic_clock_black_24dp
+drawable ic_dog_paw
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -3145,6 +3146,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout grid_list_item
+layout horizontal_list_item
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

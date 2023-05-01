@@ -56,6 +56,7 @@ class DogCardAdapter(
 
         val adapterLayout = when(layout) {
             3 -> LayoutInflater.from(parent.context).inflate(R.layout.grid_list_item, parent, false)
+            2 -> LayoutInflater.from(parent.context).inflate(R.layout.horizontal_list_item, parent, false)
             else -> LayoutInflater.from(parent.context).inflate(R.layout.vertical_horizontal_list_item, parent, false)
         }
 
