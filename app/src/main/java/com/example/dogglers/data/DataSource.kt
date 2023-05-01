@@ -59,6 +59,12 @@ object DataSource {
             "Bella",
             "14",
             "Chasing sea foam"
+        ),
+        Dog(
+            R.drawable.gunbam,
+            "Gunbam",
+            "2",
+            "Soccer"
         )
     )
 }
